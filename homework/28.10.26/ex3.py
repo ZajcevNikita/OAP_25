@@ -1,3 +1,5 @@
+# Перемножить без трюков
+
 numbers = input('Введите числа через пробел: ')
 sequence = [int(i) for i in numbers.split()]
 

@@ -1,3 +1,5 @@
+# Вышел зайчик погулять
+
 number = int(input('Введите число: '))
 
 for i in range(number + 1):

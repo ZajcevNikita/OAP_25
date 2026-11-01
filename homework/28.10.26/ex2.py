@@ -1,3 +1,5 @@
+# Факториал
+
 factorial = int(input('Введите диапазон: '))
 result = 1
 

@@ -1,3 +1,5 @@
+# Кубизм
+
 number = int(input('Введите диапазон: '))
 
 for i in range(number + 1):
